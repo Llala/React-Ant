@@ -1,0 +1,17 @@
+{
+  "name": "ant_1",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react-dom": "latest",
+    "react": "latest",
+    "moment": "2",
+    "antd": "latest"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
